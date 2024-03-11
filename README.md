@@ -20,4 +20,4 @@
 |직사각형 위에 정삼각형|<img src="https://user-images.githubusercontent.com/72699851/210294068-321c5533-1f73-4047-b043-3fa3a80e8dfd.png" width="30%" height=""/>|
 |사각형 안에 사진 넣기|<img src="https://user-images.githubusercontent.com/72699851/211248834-20d1246e-0ae8-412d-b009-65a5bab94cb6.png" width="30%" height=""/>|
 |사진 여러 개 넣기|<img src="https://user-images.githubusercontent.com/72699851/212016617-f680e5da-11bc-4952-8616-691f0331ca40.png" width="30%" height=""/>|
-
+|사진을 손가락으로 드래그 하기|  |
